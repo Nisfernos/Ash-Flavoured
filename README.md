@@ -1,2 +1,2 @@
-# Ash-Flavoured
+# Ash Flavoured
 Minecraft datapack
