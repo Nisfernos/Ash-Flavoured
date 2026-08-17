@@ -1,0 +1,5 @@
+# Exclude git files
+.git*       export-ignore
+# Exclude README.md and other docs
+README.md   export-ignore
+docs/       export-ignore
